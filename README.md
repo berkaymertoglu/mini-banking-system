@@ -21,5 +21,4 @@
 ## Status
 🚧 Under Development
 
-## Version History
-- v0.1.0 - Initial setup (05.02.2026)
+
